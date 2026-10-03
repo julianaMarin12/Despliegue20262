@@ -1,9 +1,6 @@
-pandas
-joblib
-openpyxl
 streamlit
-scikit-learn
 pandas
 numpy
-pickle-mixin
-matplotlib
+joblib
+openpyxl
+scikit-learn==1.6.1
